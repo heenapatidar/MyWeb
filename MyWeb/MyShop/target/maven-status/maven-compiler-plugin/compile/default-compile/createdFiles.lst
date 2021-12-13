@@ -1,0 +1,5 @@
+com\learn\myshop\entities\User.class
+com\learn\myshop\entities\Product.class
+com\learn\myshop\helper\FactoryProvider.class
+com\learn\myshop\servlets\RegisterServlet.class
+com\learn\myshop\entities\Category.class
